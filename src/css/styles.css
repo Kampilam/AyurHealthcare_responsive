@@ -49,6 +49,18 @@ flex-grow: 2;
     display: none;
 }
 
+a{
+    text-decoration: none;
+}
+
+a hover{
+    background-color: #acabab;
+}
+
+a visited{
+    color: #061E47;
+}
+
 .service_logo{
     height: 18px;
     width: 18px;
